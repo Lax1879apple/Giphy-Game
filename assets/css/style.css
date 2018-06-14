@@ -1,0 +1,37 @@
+
+body {
+        background-image: url("../images/lovelybird.jpg");
+    }
+
+h1 {
+    color:rgb(161, 79, 79);
+    display: block;
+    border-style: groove;
+    border-color: darkolivegreen;
+    border-width: thick;
+    text-align: -webkit-center;
+    text-transform: capitalize;
+    border-radius: 50%;
+    max-height: 100px;
+    background-origin: border-box;
+    background-color: burlywood;
+    height:70px;
+    
+}
+.Trout-btn, .Dolphin-btn, .Octopus-btn,
+.Shark-btn, .Tuna-btn{
+    border-style: groove;
+
+}
+p{
+ font-display: strong;
+ color: darkblue;
+
+}
+.container{
+    font-size: x-large;
+    font-style: oblique;
+}
+#bdyDiv{
+    border: double solid limegreen;
+}
